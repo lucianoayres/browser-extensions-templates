@@ -1,0 +1,16 @@
+{
+    "name": "Joe Monroe",
+    "email": "joe.monroe@email.com",
+    "age": 33,
+    "job": "Engineer",
+    "address": {
+        "street": "Coral Drive",
+        "number": 890,
+        "city": "Miami",
+        "state": "Florida"
+    },
+    "settings": {
+        "theme": "dark",
+        "timezone": "GMT+2"
+    }
+}
